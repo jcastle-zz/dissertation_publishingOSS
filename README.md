@@ -4,7 +4,7 @@ This repository provides a public location to store artifacts of my dissertation
 As of 1/25/2019, I am researching and writing, and preparing for data collection.
 
 This repository currently includes:
-1. Summary of dissertation topic.
+1. Summary of dissertation topic
 2. CV
 
 Inquiries can be sent to jrcastle@vt.edu.
