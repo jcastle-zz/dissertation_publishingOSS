@@ -7,4 +7,4 @@ This repository currently includes:
 1. Summary of dissertation topic
 2. CV
 
-Inquiries can be sent to jrcastle@vt.edu.
+Inquiries may be sent to jrcastle@vt.edu.
