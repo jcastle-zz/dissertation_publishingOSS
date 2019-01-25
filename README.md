@@ -8,3 +8,10 @@ This repository currently includes:
 2. [CV](https://github.com/jcastle/Dissertation_PublishingOSS/blob/master/CV.pdf)
 
 Inquiries may be sent to jrcastle@vt.edu.
+
+
+---
+
+##### Copyright (c) 2019, Joseph Castle #####
+
+###### The contents of this repo is copyright and not currently accepting contributions. Please post comments in this repo's Issues or send via email. Post completion of dissertation, the intent is to open source with CCO. ######
