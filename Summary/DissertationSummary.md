@@ -23,4 +23,4 @@ My next step is to explore why variation exists among units and includes develop
 
 ---
 
-Note: All sources located in [DissertationSummary.pdf](https://github.com/jcastle/Dissertation_PublishingOSS/blob/master/Summary/DissertationSummary.pdf).
+Note: All sources located in [DissertationSummary.pdf](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Summary/DissertationSummary.pdf).
