@@ -1,5 +1,5 @@
 # Welcome!
-This repository provides a public location for storing and sharing my dissertation, ***An Organizational Analysis of Publishing the People's Code***. The dissertation is being completed as partial fulfillment for my PhD in Public Administration and Policy at Virginia Tech. Defense planned for December 2019.
+This repository provides a public location for storing and sharing my dissertation, ***An Organizational Analysis of Publishing the People's Code***. The dissertation is being completed in partial fulfillment for my PhD in Public Administration and Public Affairs at the Virginia Polytechnic Institute and State University (Virginia Tech). Defense planned for February 2020.
 
 As of 1/25/2019, I am researching and writing, and preparing for data collection.
 
